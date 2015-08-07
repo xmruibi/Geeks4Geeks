@@ -14,6 +14,8 @@ public class FindMissingNumber {
 		return res;
 	}
 	
+	
+	
 	public static void main(String[] args) {
 		int[] arr = {1,2,4,5,7,6,8,3,10,11};
 		System.out.println(findMissing(arr, 11));
